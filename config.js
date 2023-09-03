@@ -37,8 +37,8 @@ global.eror = 'Terjadi Kesalahan Coba Lagi Nanti!'
 global.multiplier = 69 
 
 // Apikey
-global.lol = 'apikeymu'
-global.zoner = 'apikeymu'
+global.lol = 'APIKEY_KAMU'
+global.zoner = 'APIKEY_KAMU'
 
 // Catatan : Jika Mau Work Fiturnya
 // Masukan Apikeymu
