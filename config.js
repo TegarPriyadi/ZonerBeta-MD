@@ -38,7 +38,7 @@ global.multiplier = 69
 
 // Apikey
 global.lol = 'apikeymu'
-global.zoner = 'Tegarpie01'
+global.zoner = 'apikeymu'
 
 // Catatan : Jika Mau Work Fiturnya
 // Masukan Apikeymu
