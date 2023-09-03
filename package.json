@@ -22,16 +22,16 @@
         "whatsapp",
         "wabot-aq"
     ],
-    "homepage": "https://github.com/Xyroinee/Clara-MD",
+    "homepage": "https://github.com/TegarPriyadi/ZonerBeta-MD",
     "author": {
         "name": "Xyroinee"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Xyroinee/Clara-MD.git"
+        "url": "git+https://github.com/TegarPriyadi/ZonerBeta-MD.git"
     },
     "bugs": {
-        "url": "https://github.com/Xyroinee/Clara-MD/issues"
+        "url": "https://github.com/TegarPriyadi/ZonerBeta-MD/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
